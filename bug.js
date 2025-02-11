@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android application. The build process fails and outputs an error message that is difficult to interpret. The error message may indicate a problem with the Android SDK, Gradle, or the Expo CLI itself.  The exact error message varies but often involves terms like 'AAPT2' or 'BUILD FAILED'.
